@@ -1,0 +1,53 @@
+body {
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1 {
+	font-size: 50px;
+	font-style: italic;
+	text-align: center;
+}
+h2 {
+	text-align: center;
+}
+p {
+	text-align: center;
+}
+li{
+	text-align: center;
+}
+.div1 {
+	margin-left: 500px;
+	float:left;
+}
+
+.div2 {
+	margin-right: 450px;
+	float:right;
+}
+.div3{
+	margin-top: 350px;
+}
+img {
+	float:right;
+	height: 200px;
+	width: 305px;
+	margin-top: -350px;
+	margin-right: 50px;
+}
+a{
+	color: black;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
